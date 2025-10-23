@@ -1,0 +1,4 @@
+🎓 Learning Management System (LMS)
+
+LMS is a web-based platform built with FastAPI and PostgreSQL that helps schools and educational centers manage courses, schedules, teachers, and students.
+It provides essential tools for organizing both online and offline learning.
